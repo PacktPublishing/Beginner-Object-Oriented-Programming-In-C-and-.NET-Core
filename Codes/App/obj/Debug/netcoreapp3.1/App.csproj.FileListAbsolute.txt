@@ -1,0 +1,13 @@
+\\Mac\Home\Desktop\Project Repos\Beginner-Object-Oriented-Programming-In-CSharp\App\bin\Debug\netcoreapp3.1\App.exe
+\\Mac\Home\Desktop\Project Repos\Beginner-Object-Oriented-Programming-In-CSharp\App\bin\Debug\netcoreapp3.1\App.deps.json
+\\Mac\Home\Desktop\Project Repos\Beginner-Object-Oriented-Programming-In-CSharp\App\bin\Debug\netcoreapp3.1\App.runtimeconfig.json
+\\Mac\Home\Desktop\Project Repos\Beginner-Object-Oriented-Programming-In-CSharp\App\bin\Debug\netcoreapp3.1\App.runtimeconfig.dev.json
+\\Mac\Home\Desktop\Project Repos\Beginner-Object-Oriented-Programming-In-CSharp\App\bin\Debug\netcoreapp3.1\App.dll
+\\Mac\Home\Desktop\Project Repos\Beginner-Object-Oriented-Programming-In-CSharp\App\bin\Debug\netcoreapp3.1\App.pdb
+\\Mac\Home\Desktop\Project Repos\Beginner-Object-Oriented-Programming-In-CSharp\App\obj\Debug\netcoreapp3.1\App.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\Project Repos\Beginner-Object-Oriented-Programming-In-CSharp\App\obj\Debug\netcoreapp3.1\App.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\Project Repos\Beginner-Object-Oriented-Programming-In-CSharp\App\obj\Debug\netcoreapp3.1\App.AssemblyInfo.cs
+\\Mac\Home\Desktop\Project Repos\Beginner-Object-Oriented-Programming-In-CSharp\App\obj\Debug\netcoreapp3.1\App.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Project Repos\Beginner-Object-Oriented-Programming-In-CSharp\App\obj\Debug\netcoreapp3.1\App.dll
+\\Mac\Home\Desktop\Project Repos\Beginner-Object-Oriented-Programming-In-CSharp\App\obj\Debug\netcoreapp3.1\App.pdb
+\\Mac\Home\Desktop\Project Repos\Beginner-Object-Oriented-Programming-In-CSharp\App\obj\Debug\netcoreapp3.1\App.genruntimeconfig.cache
